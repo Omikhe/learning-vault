@@ -1,0 +1,9 @@
+{
+  "textFontFamily": "Geist",
+  "monospaceFontFamily": "JetBrains Mono",
+  "baseFontSizeAction": true,
+  "showViewHeader": false,
+  "showRibbon": true,
+  "nativeMenus": false,
+  "baseFontSize": 20
+}

@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "3bb7a86e5d864c27",
+    "type": "split",
+    "children": [
+      {
+        "id": "899f20a44a30e255",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c1a7f821d2bb92d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shared/guides & roadmaps/economics-daily-study-schedule.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "economics-daily-study-schedule"
+            }
+          },
+          {
+            "id": "84a83f085a0db973",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Macroeconomics/resources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "resources"
+            }
+          },
+          {
+            "id": "7521e37d81119553",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/mathematics.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mathematics.md"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c2f8dc37852085c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "40aea2f22e15392c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67a5b9aecdb57c97",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4c23afec9a7273b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "96bd18a98261b969",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a26ef7fd75a5f0e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f620f7df1b60c0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b9ea6f30d0a8573",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00-index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9f5c8557fbca97a2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00-index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0439af8f6be73c87",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5f9b9d83931216e5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6dd533df5ba54819",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00-index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "67a5b9aecdb57c97",
+  "lastOpenFiles": [
+    "Macroeconomics/resources.md",
+    "Mathematics/mathematics.md.md",
+    "Mathematics",
+    "Shared/guides & roadmaps/economics-4_week-study-plan.md",
+    "Shared/guides & roadmaps/economics-daily-study-schedule.md",
+    "Macroeconomics/case-studies/2008-financial-crisis.md",
+    "00-index.md",
+    "Shared/guides & roadmaps/economics-general-study-guide.md",
+    "Stats & Probability/resources.md",
+    "Shared/guides & roadmaps/Copilot_20260807_100217.png",
+    "Shared/guides & roadmaps",
+    "Shared/New folder",
+    "Macroeconomics/concepts/gdp-growth.md",
+    "Stats & Probability/concepts/probability-distributions.md",
+    "Shared/glossary.md",
+    "Shared/tools/regression-calculator.md"
+  ]
+}
