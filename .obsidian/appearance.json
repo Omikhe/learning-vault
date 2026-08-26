@@ -2,7 +2,7 @@
   "textFontFamily": "Geist",
   "monospaceFontFamily": "JetBrains Mono",
   "baseFontSizeAction": true,
-  "showViewHeader": false,
+  "showViewHeader": true,
   "showRibbon": true,
   "nativeMenus": false,
   "baseFontSize": 20
