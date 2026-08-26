@@ -12,6 +12,9 @@
 - [[supply-demand]]
 - [[price-elasticity]]
 
+## 📂 Mathematics
+- [[TODO]]
+
 ## 📂 Shared
 - [[glossary]]
 - [[world-bank-gdp.csv]]
