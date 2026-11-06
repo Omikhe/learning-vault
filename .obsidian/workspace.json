@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shared/guides & roadmaps/economics-daily-study-schedule.md",
-                "mode": "preview",
+                "file": "LaTeX/intro-to-latex.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "economics-daily-study-schedule"
+              "title": "intro-to-latex"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "math-from-scratch.md"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shared/guides & roadmaps/math-from-scratch.md.md",
+                "file": "Shared/guides & roadmaps/economics-daily-study-schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shared/guides & roadmaps/math-from-scratch.md.md",
+                "file": "Shared/guides & roadmaps/economics-daily-study-schedule.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -204,10 +203,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "84a83f085a0db973",
+  "active": "67a5b9aecdb57c97",
   "lastOpenFiles": [
-    "Mathematics/resources.md",
+    "LaTeX/hello-world.tex",
+    "LaTeX/hello-world.text",
+    "Shared/guides & roadmaps/economics-daily-study-schedule.md",
+    "LaTeX/intro-to-latex.md",
+    "LaTeX",
     "Shared/guides & roadmaps/math-from-scratch.md.md",
+    "Mathematics/resources.md",
     "00-index.md",
     "Macroeconomics/resources.md",
     "Mathematics/mathematics.md.md",
@@ -216,7 +220,6 @@
     "Mathematics/case-studies",
     "Mathematics",
     "Shared/guides & roadmaps/economics-4_week-study-plan.md",
-    "Shared/guides & roadmaps/economics-daily-study-schedule.md",
     "Macroeconomics/case-studies/2008-financial-crisis.md",
     "Shared/guides & roadmaps/economics-general-study-guide.md",
     "Stats & Probability/resources.md",
